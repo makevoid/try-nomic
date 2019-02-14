@@ -1,0 +1,12 @@
+{
+  "description": "Trying nomic on minnet... awesome :D",
+  "repository": "https://github.com/makevoid/try-nomic",
+  "license": "Unlicense",
+  "dependencies": {
+    "bitcoin-peg": "makevoid/bitcoin-peg#mainnet",
+    "bitcoinjs-lib": "^4.0.3",
+    "coins": "^4.5.0",
+    "lotion": "^0.4.9",
+    "webcoin": "^3.1.0"
+  }
+}
